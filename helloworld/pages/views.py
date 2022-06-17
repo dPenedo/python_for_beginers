@@ -1,5 +1,5 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-deh homePageView(request):
+def homePageView(request):
     return HttpResponse('Hello, World!')
