@@ -166,8 +166,17 @@ Hasta ahora el contenido estaba de manera local en el dispositivo, se podía ver
 
 ### Heroku
 
+* Se crea una cuenta en Heroku
+* Se instala Heroku’s Command Line Interface
+* Logearse en Heroku desde el terminal
+
 
 ### Archivos adicionales
+
+* Modificar Pipfile.lock y ejecutar $pipenv lock
+* Hacer un archivo Procfile
+* Instalar gunicorn como servidor web
+* Cambiar aone-line al archivo settings.py
 
 
 ### Deploy
